@@ -1,10 +1,10 @@
 # MTG Life Counter - Complete Plugin Documentation
 
 **Version:** 4.3.1  
-**Author:** Void, Corp  
-**License:** GPL v2 or later  
+**Author:** Mountain View Provisions
+**License:** Custom  
 **WordPress Compatibility:** 5.8+  
-**Tested up to:** WordPress 6.7  
+**Tested up to:** WordPress 6.9 
 
 ---
 
@@ -3372,10 +3372,10 @@ When reporting issues, include:
 
 ### Credits
 
-**Developer:** Void, Corp  
+**Developer:** Sean Bailey - Mountain View Provisions LLC 
 **Version:** 4.3.1  
-**License:** GPL v2 or later  
-**Repository:** (If public, add GitHub link)
+**License:** Custom 
+
 
 **Third-Party Libraries:**
 - Chart.js - For analytics charts
